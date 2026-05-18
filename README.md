@@ -76,4 +76,4 @@ At every angle:
 
 ## Project Demonstration
 
-[Click here to check out the project Demo Video]()
+[Click here to check out the project Demo Video](https://youtu.be/pRkvvYLPDWA)
